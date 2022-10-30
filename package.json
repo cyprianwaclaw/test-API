@@ -8,6 +8,11 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@vue/babel-plugin-jsx": "^1.1.1",
     "nuxt": "3.0.0-rc.12"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.3",
+    "pinia": "^2.0.23"
   }
 }
